@@ -7,7 +7,9 @@
     <h4>RPA in UIPATH</h4>
    </ul>
 ### 📫 How to reach me: ...
-   <a href="https://www.linkedin.com/in/abdulsamathg"> Linkedin Profile</a>
+   <ul>
+     <a href="https://www.linkedin.com/in/abdulsamathg"> Linkedin Profile</a>
+   </ul>
 <!--
 **iamabdull/iamabdull** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
