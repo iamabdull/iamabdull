@@ -1,12 +1,13 @@
 ## Hi there 👋
-   I'm ABDULSAMATH
+   <h3>I'm ABDULSAMATH</h3>
 
-### - 🌱 I’m currently learning ... 
-   Machine learning
-   <br>
-   RPA in UIPATH</br>
-### - 📫 How to reach me: ...
-
+### 🌱 I’m currently learning ... 
+   <ul> 
+    <h4>Machine learning</h4>
+    <h4>RPA in UIPATH</h4>
+   </ul>
+### 📫 How to reach me: ...
+   <a href="https://www.linkedin.com/in/abdulsamathg"> Linkedin Profile</a>
 <!--
 **iamabdull/iamabdull** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
