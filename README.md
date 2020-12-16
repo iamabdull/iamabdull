@@ -1,30 +1,18 @@
 ## Hi there 👋
-   <h3>I'm ABDULSAMATH</h3>
-
-### 🌱 I’m currently learning ... 
-   <ul> 
-    <h4>Machine learning</h4>
-    <h4>RPA in UIPATH</h4>
-   </ul>
-### 📫 How to reach me: ...
-   <ul>
-     <a href="https://www.linkedin.com/in/abdulsamathg"> Linkedin Profile</a>
-   </ul>
-<!--
-**iamabdull/iamabdull** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-
+# I'm Abdulsamath
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ... 
-  Machine learning
-  RPA in UIPATH
-  Electronic and Communication Engineering
-
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+   - Machine learning
+   - RPA in UIPATH
+   - Arduino
   
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<!-- - 👯 I’m looking to collaborate on ...-->
+<!-- - 🤔 I’m looking for help with ...-->
+<!-- - 💬 Ask me about ...-->
+- 📫 How to reach me: ...
+   - This is my [Linkedin Profile](https://www.linkedin.com/in/abdulsamathg/).
+  
+<!-- - 😄 Pronouns: ...
+- ⚡ Fun fact: ...-->
+
